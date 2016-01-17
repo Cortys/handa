@@ -1,0 +1,10 @@
+{
+	"name": "handa",
+	"version": "0.1.0",
+	"author": "Clemens Damke <admin@cortys.de>",
+	"repository": "https://github.com/Cortys/handa",
+
+	"dependencies": {
+
+	}
+}
