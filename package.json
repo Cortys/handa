@@ -2,7 +2,11 @@
 	"name": "handa",
 	"version": "0.1.0",
 	"author": "Clemens Damke <admin@cortys.de>",
-	"repository": "https://github.com/Cortys/handa",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/runnr/runnr.js.git"
+	},
+	"main": "./src/handa.js",
 
 	"dependencies": {
 
